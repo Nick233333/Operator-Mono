@@ -16,8 +16,7 @@ Befatiful coding font
 <p align="center"><img  width="500px" src="./doc/cover7.png"></p>
 <br>
 <p align="center"><img  width="500px" src="./doc/cover9.png"></p>
-<br>
-<p align="center"><img  width="500px" src="./doc/cover10.png"></p>
+
 
 
 
